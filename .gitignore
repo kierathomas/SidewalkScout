@@ -1,0 +1,13 @@
+# Ignore virtual environments
+# Kiera's venv:
+myEnv/
+
+# Ignore Django migrations
+**/migrations/
+__pycache__/
+
+# Ignore database
+db.sqlite3
+
+# Ignore secret key
+myproject/settings.py
